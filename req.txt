@@ -1,0 +1,6 @@
+streamlit
+crewai
+crewai_tools
+load_dotenv
+langchain-huggingface
+crewai[tools]
